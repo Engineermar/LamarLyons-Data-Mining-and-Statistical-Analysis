@@ -1,0 +1,2 @@
+# LamarLyons-Data-Mining-and-Statistical-Analysis
+#### Data Mining refers to the application of statistics in the form of exploratory data analysis and predictive models to reveal patterns and trends in data from existing data sources. This person will be able to look at a business problem and translate it to a data question, create predictive models to answer the question and story tell about the findings.
